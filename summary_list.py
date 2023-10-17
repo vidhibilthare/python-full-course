@@ -18,4 +18,27 @@ print(mixed[3])#output=[4,5,6]
 # mixed.append('10')
 # print(mixed)
 
+# mixed.extend([10,20,30])
+# print(mixed)
+
+# join two list
+# l=li+l1
+
+# mixed.insert(1,"inserted")
+# # print(mixed)
+
+# remove data from list
+# popped = mixed.pop() removed last item
+# popped = mixed.pop(1) remove item at position 1
+
+# remove
+# mixed.remove('seven)
+
+
+# del statement
+# del mixed[3]
+
+# loop in list
+# for i in mixed:
+    # print(i)
 
