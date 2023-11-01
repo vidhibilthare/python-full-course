@@ -3,7 +3,8 @@
 
 #PADK
 # parameters
-# default parameters
+#args
+#default parameters
 #kwargs
 
 # def func(name='unknown',age='unknown'):
